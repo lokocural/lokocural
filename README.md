@@ -1,17 +1,15 @@
-### Hi there 👋
+**Hello, my name is Lucas. 🧔**
 
-<!--
-**lokocural/lokocural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -  It's great to see you here! 👀
+ -  I'm Brazilian, from São Paulo 🌆
+ -  I am    currently working on individual projects 👨‍💻 
+ -  I study at two    different engineering universities and I love taking courses online.👨‍🎓
+ - My dream is to work in a big technology company! 🤑
+ - Feel free to look at my repository.🤯
 
-Here are some ideas to get you started:
+![enter image description here](https://www.vibrantsoftware.com/images/public/public/html5-css3-js-logo.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<i class="devicon-linkedin-plain-wordmark colored"></i>
+ Follow me on linkedin!⬇⬇⬇
+ - [Click here!](https://www.linkedin.com/in/lucas-c-martins-b1a47b197/)
+
+![enter image description here](https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1.png)
