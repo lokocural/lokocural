@@ -12,4 +12,4 @@
  Follow me on linkedin!⬇⬇⬇
  - [Click here!](https://www.linkedin.com/in/lucas-c-martins-b1a47b197/)
 
-![enter image description here](https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1.png)
+![enter image description here](https://sguru.org/wp-content/uploads/2018/02/Linkedin-Transparent-Icon.png)
