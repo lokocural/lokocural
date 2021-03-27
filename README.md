@@ -4,7 +4,6 @@
 ## -  I'm Brazilian, from São Paulo 🌆
 ## -  I am    currently working on individual projects 👨‍💻 
 ## -  I study at two    different engineering universities and I love taking courses online.👨‍🎓
-## -  My dream is to work in a big technology company! 🤑
 ## -  Feel free to look at my repository.🤯
 
 ![enter image description here](https://www.vibrantsoftware.com/images/public/public/html5-css3-js-logo.png)
