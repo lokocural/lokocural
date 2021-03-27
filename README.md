@@ -10,6 +10,6 @@
 ![enter image description here](https://www.vibrantsoftware.com/images/public/public/html5-css3-js-logo.png)
 
  Follow me on linkedin!⬇⬇⬇
- #- [Click here!](https://www.linkedin.com/in/lucas-c-martins-b1a47b197/)
+ [Click here!](https://www.linkedin.com/in/lucas-c-martins-b1a47b197/)
 
 ![enter image description here](https://sguru.org/wp-content/uploads/2018/02/Linkedin-Transparent-Icon.png)
