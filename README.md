@@ -6,7 +6,7 @@
 ## -  I study at two    different engineering universities and I love taking courses online.👨‍🎓
 ## -  Feel free to look at my repository.🤯
 
-![enter image description here](https://www.vibrantsoftware.com/images/public/public/html5-css3-js-logo.png)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
 
 <a href="https://www.linkedin.com/in/lucas-c-martins-b1a47b197/" target="_blank">
