@@ -10,7 +10,7 @@
 
 
 <a href="https://www.linkedin.com/in/lucas-c-martins-b1a47b197/" target="_blank">
-<img align="center" alt="Linkedin" width="480" height="240" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
+<img align="left" alt="Linkedin" width="480" height="240" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
 
 
 
